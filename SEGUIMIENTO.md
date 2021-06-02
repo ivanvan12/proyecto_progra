@@ -1,3 +1,25 @@
+# proyecto de programación
+proyecto de trabajo 
+## Descripcion 
+
+## integrantes 
+-Iván Zuñiga Palacio
+-kevin Alexis Vergara Rojas  
+
+## Recursos 
+-[Guia de markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+-[MiDI]
+
+### ¿Qué hemos hecho?
+  Crear el repositorio 
+  
+### ¿Qué vamos a hacer?
+ El programa base 
+ 
+ ### ¿Qué dificultad hemos tenido? 
+   Tuve un problema con el repositorio, porque me equivoqué al subir unos datos que eran para otro proyecto, por ello reinicie desde 0
+ 
+
 ## 11 de abril - Seguimiento
 
 - ¿Qué hemos hecho?
@@ -133,3 +155,53 @@
 
   - Control de actualización de la consola sin saltar de línea
   - Animación, demanda mucho tiempo de dediación y este no es un tema critico del proyecto.
+
+## 10, 12 de mayo - Seguimiento
+
+- ¿Qué hemos hecho?
+
+  - Reproducir un fragmento de audio aleatorio
+  - Detectar cuando termina una canción, para reproducir la siguiente.
+
+- ¿Qué voy a hacer?
+
+  - Pendiente hacer refactoring de los paquetes de los helpers
+  - Proponer un sistema de eventos para el control de reproducción.
+  
+
+- ¿Qué dificultades tengo?
+
+  - se presentaron algunos errores en el intento de reproducción aleatoria.
+
+## 17, 20 de mayo - Seguimiento
+
+- ¿Qué hemos hecho?
+
+  - Austes en el menú ascii
+
+- ¿Qué voy a hacer?
+
+  - Pendiente hacer refactoring de los paquetes de los helpers
+  - Proponer un sistema de eventos para el control de reproducción
+
+- ¿Qué dificultades tengo?
+
+  - Algunos compromisos con otras materías y limitaciones en el tiempo para dedicar al proyecto.
+
+## 24, 27, 29 de mayo - Seguimiento
+
+- ¿Qué hemos hecho?
+
+   - Proponer un sistema de eventos para el control de reproducción. 
+  
+- ¿Qué voy a hacer?
+
+  - Pendiente hacer refactoring de los paquetes de los helpers
+ 
+
+- ¿Qué dificultades tengo?
+
+  - Algunos compromisos con otras materías y limitaciones en el tiempo para dedicar al proyecto.
+  
+
+
