@@ -1,13 +1,13 @@
 # Proyecto final de lógica de Programación🧑🏻‍🎓
 # 🧑‍🎤¡SingAlong!🎼
 ### INTEGRANTES
-## 👩🏻‍💻 Luisa Maria Flórez Múnera https://github.com/luisaflorezm 👩🏻‍💻 
-## 🧑🏻‍💻 Juan Andrés Gómez Giraldo https://github.com/juangomez00 🧑🏻‍💻
+## Ivan Zuñiga Palacio https://github.com/ivanvan12 
+## Kevin Vergara https://github.com/Kevin-0427
 
-# Descripción del Proyecto😃 
-## Nuestro proyecto se llama 🧑‍🎤Sing Along🎼 y es una simulación de una rocola musical moderna.
-Consta de: 
-- Un menú de créditos de la rocola musical.
+# Descripción  
+## nuestro proyecto se llama xmusic, se basa en un reproductor musical que emula una rocola 
+se compone por:
+
 - Una lista de las canciones:
 1. Rosas - Oreja de Van Gogh  
 2. Me gustas tu - Manu Chao
@@ -28,12 +28,7 @@ Consta de:
 17. Hijo de la luna - Mecano
 18. Musica Ligera - Soda Estereo
 19. Oye mi amor - Mana
-- Las letras de las canciones al momento de escuchar tu canción preferida con la posibilidad de seleccionarla. 
-
-## Link de la exposición:
-https://www.canva.com/design/DAEe9NFKSQI/3rsr3GIPrKRgISRApu6rNg/view?utm_content=DAEe9NFKSQI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ## Link de video explicativo:
-https://youtu.be/vQLiPjJc09A
+https://www.youtube.com/watch?v=4H1klOJyMW0
 
-![img](https://i.imgur.com/eqkxG5q.png)
