@@ -1,5 +1,5 @@
-# Proyecto final de lógica de Programación🧑🏻‍🎓
-#Xmusic
+# Proyecto final de lógica de Programacion
+# Xmusic
 ### INTEGRANTES
 ## Ivan Zuñiga Palacio https://github.com/ivanvan12 
 ## Kevin Vergara https://github.com/Kevin-0427
